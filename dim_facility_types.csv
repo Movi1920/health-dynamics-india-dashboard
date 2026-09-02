@@ -1,0 +1,7 @@
+facility_type_id,facility_code,facility_name,care_level
+1,SC,Sub Centre,Primary
+2,PHC,Primary Health Centre,Primary
+3,CHC,Community Health Centre,Secondary
+4,SDH,Sub Divisional Hospital,Secondary
+5,DH,District Hospital,Tertiary
+6,Medical College,Medical College Hospital,Tertiary

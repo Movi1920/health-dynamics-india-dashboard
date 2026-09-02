@@ -1,0 +1,37 @@
+state_id,state_name,state_category
+1,Andhra Pradesh,State
+2,Arunachal Pradesh,State
+3,Assam,State
+4,Bihar,State
+5,Chhattisgarh,State
+6,Goa,State
+7,Gujarat,State
+8,Haryana,State
+9,Himachal Pradesh,State
+10,Jharkhand,State
+11,Karnataka,State
+12,Kerala,State
+13,Madhya Pradesh,State
+14,Maharashtra,State
+15,Manipur,State
+16,Meghalaya,State
+17,Mizoram,State
+18,Nagaland,State
+19,Odisha,State
+20,Punjab,State
+21,Rajasthan,State
+22,Sikkim,State
+23,Tamil Nadu,State
+24,Telangana,State
+25,Tripura,State
+26,Uttarakhand,State
+27,Uttar Pradesh,State
+28,West Bengal,State
+29,Andaman & Nicobar Islands,UT
+30,Chandigarh,UT
+31,Dadra & Nagar Haveli and Daman & Diu,UT
+32,Delhi,UT
+33,Jammu & Kashmir,UT
+34,Ladakh,UT
+35,Lakshadweep,UT
+36,Puducherry,UT

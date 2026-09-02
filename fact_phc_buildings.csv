@@ -1,0 +1,109 @@
+state_name,area_type,total_phcs,govt_bldg,rented_bldg,panchayat_bldg,to_construct
+Andhra Pradesh,Rural,1144,1113,3,28,31
+Arunachal Pradesh,Rural,128,125,0,3,3
+Assam,Rural,927,919,3,5,8
+Bihar,Rural,1684,1188,249,247,496
+Chhattisgarh,Rural,770,731,2,37,39
+Goa,Rural,21,19,1,1,2
+Gujarat,Rural,1490,1321,20,149,169
+Haryana,Rural,392,317,8,67,75
+Himachal Pradesh,Rural,554,445,11,98,109
+Jharkhand,Rural,310,274,3,33,36
+Karnataka,Rural,2131,2105,8,18,26
+Kerala,Rural,782,765,12,5,17
+Madhya Pradesh,Rural,1442,1342,19,81,100
+Maharashtra,Rural,1916,1861,8,47,55
+Manipur,Rural,74,72,0,2,2
+Meghalaya,Rural,116,116,0,0,0
+Mizoram,Rural,56,56,0,0,0
+Nagaland,Rural,125,117,0,8,8
+Odisha,Rural,1278,1255,0,23,23
+Punjab,Rural,397,354,1,42,43
+Rajasthan,Rural,2455,2192,19,244,263
+Sikkim,Rural,24,24,0,0,0
+Tamil Nadu,Rural,1415,1388,1,26,27
+Telangana,Rural,595,588,4,3,7
+Tripura,Rural,111,111,0,0,0
+Uttarakhand,Rural,544,452,22,70,92
+Uttar Pradesh,Rural,3015,2987,0,28,28
+West Bengal,Rural,907,904,0,3,3
+Andaman & Nicobar Islands,Rural,22,22,0,0,0
+Chandigarh,Rural,0,,,,
+Dadra & Nagar Haveli and Daman & Diu,Rural,12,12,0,0,0
+Delhi,Rural,3,3,0,0,0
+Jammu & Kashmir,Rural,884,698,170,16,186
+Ladakh,Rural,32,32,0,0,0
+Lakshadweep,Rural,4,4,0,0,0
+Puducherry,Rural,25,25,0,0,0
+Andhra Pradesh,Urban,547,466,63,18,81
+Arunachal Pradesh,Urban,6,6,0,0,0
+Assam,Urban,92,60,30,2,32
+Bihar,Urban,111,21,80,10,90
+Chhattisgarh,Urban,60,60,0,0,0
+Goa,Urban,7,5,1,1,2
+Gujarat,Urban,416,291,85,40,125
+Haryana,Urban,116,32,78,6,84
+Himachal Pradesh,Urban,26,14,4,8,12
+Jharkhand,Urban,77,40,25,12,37
+Karnataka,Urban,402,286,70,46,116
+Kerala,Urban,171,146,16,9,25
+Madhya Pradesh,Urban,367,215,143,9,152
+Maharashtra,Urban,749,716,10,23,33
+Manipur,Urban,22,19,2,1,3
+Meghalaya,Urban,19,1,18,0,18
+Mizoram,Urban,9,9,0,0,0
+Nagaland,Urban,14,12,2,0,2
+Odisha,Urban,129,111,16,2,18
+Punjab,Urban,125,91,6,28,34
+Rajasthan,Urban,295,233,37,25,62
+Sikkim,Urban,2,2,0,0,0
+Tamil Nadu,Urban,444,417,5,22,27
+Telangana,Urban,277,192,64,21,85
+Tripura,Urban,10,10,0,0,0
+Uttarakhand,Urban,69,26,39,4,43
+Uttar Pradesh,Urban,697,113,583,1,584
+West Bengal,Urban,475,461,8,6,14
+Andaman & Nicobar Islands,Urban,5,5,0,0,0
+Chandigarh,Urban,29,26,1,2,3
+Dadra & Nagar Haveli and Daman & Diu,Urban,2,0,0,2,2
+Delhi,Urban,416,291,111,14,125
+Jammu & Kashmir,Urban,92,41,50,1,51
+Ladakh,Urban,1,0,1,0,1
+Lakshadweep,Urban,0,,,,
+Puducherry,Urban,21,19,2,0,2
+Andhra Pradesh,Tribal,160,156,0,4,4
+Arunachal Pradesh,Tribal,134,131,0,3,3
+Assam,Tribal,191,189,2,0,2
+Bihar,Tribal,2,2,0,0,0
+Chhattisgarh,Tribal,412,386,2,24,26
+Goa,Tribal,,,,,
+Gujarat,Tribal,423,385,4,34,38
+Haryana,Tribal,,,,,
+Himachal Pradesh,Tribal,46,41,0,5,5
+Jharkhand,Tribal,191,141,15,35,50
+Karnataka,Tribal,48,47,1,0,1
+Kerala,Tribal,100,98,1,1,2
+Madhya Pradesh,Tribal,410,351,12,47,59
+Maharashtra,Tribal,332,314,1,17,18
+Manipur,Tribal,46,44,0,2,2
+Meghalaya,Tribal,135,117,18,0,18
+Mizoram,Tribal,65,65,0,0,0
+Nagaland,Tribal,139,129,2,8,10
+Odisha,Tribal,457,433,8,16,24
+Punjab,Tribal,,,,,
+Rajasthan,Tribal,258,231,3,24,27
+Sikkim,Tribal,12,12,0,0,0
+Tamil Nadu,Tribal,98,94,0,4,4
+Telangana,Tribal,101,100,1,0,1
+Tripura,Tribal,54,54,0,0,0
+Uttarakhand,Tribal,15,12,3,0,3
+Uttar Pradesh,Tribal,,,,,
+West Bengal,Tribal,83,83,0,0,0
+Andaman & Nicobar Islands,Tribal,4,4,0,0,0
+Chandigarh,Tribal,,,,,
+Dadra & Nagar Haveli and Daman & Diu,Tribal,6,6,0,0,0
+Delhi,Tribal,,,,,
+Jammu & Kashmir,Tribal,135,104,26,5,31
+Ladakh,Tribal,33,32,1,0,1
+Lakshadweep,Tribal,4,4,0,0,0
+Puducherry,Tribal,,,,,
